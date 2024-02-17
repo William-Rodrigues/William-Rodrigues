@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on FIT- Instituto de Tecnologia
+- 🔭 I’m currently looking for job
 - 🌱 I’m currently learning Python, CSS, HTML and Javascript
 - ⚡ Fun fact: I am Rammus main
 
