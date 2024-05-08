@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently looking for job
-- 🌱 I’m currently learning Python, CSS, HTML and Javascript
+- 📌 QA Analyst with four year of experience on international projects
+- 🌱 I’m currently studying AI and Test automation
 - ⚡ Fun fact: I am Rammus main
 
 <div align="center">
