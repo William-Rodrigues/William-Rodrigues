@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for job
-- 📌 QA Analyst with four year of experience on international projects
+- 🔭 I’m currently open to new oportunities
+- 📌 QA Analyst with four years of experience on international projects
 - 🌱 I’m currently studying AI and Test automation
 - ⚡ Fun fact: I am Rammus main
 
@@ -20,5 +20,3 @@
   <a href="https://www.linkedin.com/in/william-rodrigues-a4018069/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.beecrowd.com.br/judge/pt/profile/322347" target="_blank"><img height="80" src="https://www.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" target="_blank"></a> 
 </div>
-
-  ![Snake animation](https://github.com/william-rodrigues/william-rodrigues/blob/output/github-contribution-grid-snake.svg)
